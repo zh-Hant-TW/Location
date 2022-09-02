@@ -1,5 +1,3 @@
-# index.php
-人與人之間的連結
 <?php
 $arr = array(
 'https://linktr.ee/168cm36D27y/',
